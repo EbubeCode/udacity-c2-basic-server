@@ -60,4 +60,5 @@ Try creating a method "concat" to concatenate two strings.
 
 5. @TODO `./src/unit-test-examples/units.tests.ts`
 Try creating a new describe block for the "concat" method.
-# udacity-c2-basic-server
+
+# Tasks completed
